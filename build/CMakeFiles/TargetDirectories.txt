@@ -1,0 +1,3 @@
+/home/ms/home/Snake_VS_Block/build/CMakeFiles/Snake_VS_Block.dir
+/home/ms/home/Snake_VS_Block/build/CMakeFiles/edit_cache.dir
+/home/ms/home/Snake_VS_Block/build/CMakeFiles/rebuild_cache.dir
